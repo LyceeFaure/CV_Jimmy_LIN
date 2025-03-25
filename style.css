@@ -8,7 +8,7 @@ line-height: 24px;
 }
 
 h1 { 
-font-family: Monaco ;
+font-family: fantasy;
 font-size: 40px;
 color: #566dfc;
 margin-right: 30%;
@@ -43,7 +43,7 @@ margin: 20px auto 30px auto;
 }
 
 header p { 
-font-family: 'Segoe script';
+font-family: Arial ;
 font-size: 20px;
 color: #333;
 border-left: 0; 
